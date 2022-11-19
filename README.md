@@ -1,5 +1,5 @@
 # awesome-moroccomakers
-Open source repo to gather Moroccan Makers / Tech Entrepreneurs / Moroccan Startups 
+Public repo to gather Moroccan Makers / Tech Entrepreneurs / Moroccan Startups 
 
 
 ---
