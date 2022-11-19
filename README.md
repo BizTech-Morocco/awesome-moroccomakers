@@ -1,6 +1,6 @@
 # awesome-moroccomakers
 
-(https://user-images.githubusercontent.com/24813026/202861696-ecf52e90-e627-4846-8fb2-7cded1f26bff.png)
+![image info](https://user-images.githubusercontent.com/24813026/202861696-ecf52e90-e627-4846-8fb2-7cded1f26bff.png)
 
 # [FastDok](https://www.fastdok.com/)![fastdok]
 
